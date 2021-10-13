@@ -19,9 +19,7 @@
 Read light novel, web novel, korean novel and chinese novel online for free.
 You can find hundreds of english translated light novel, web novel, korean novel and chinese novel which are daily updated!
 Read novels online, read light novel online, read online free, free light novel online.
-<p>&nbsp;</p></div><ul class="col-xs-12 col-sm-7 list-unstyled"><li class="text-right pull-right"><a href="/contact" title="Contact">Contact</a> -
-<a href="/tos" title="ToS">ToS</a> -
-<a href="/sitemap.xml" target="_blank">Sitemap</a><a class="backtop" href="#" rel="nofollow" title=""><span class="glyphicon glyphicon-upload"></span></a></li></ul></div></footer></div><script type="text/javascript">
+<p>&nbsp;</p></div></div></footer></div><script type="text/javascript">
         $(document).ready(function() {
             siteIndex();
         });
